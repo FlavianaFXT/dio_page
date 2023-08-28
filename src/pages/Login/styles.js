@@ -40,6 +40,7 @@ color: #FFFF;
 `
 
 export const TitleLogin = styled.p`
+color: #FFFF;
 font-family: 'Open Sans';
 font-style: normal;
 font-weight:700;

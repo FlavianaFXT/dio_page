@@ -52,7 +52,7 @@ const Login = ( ) => {
                 <Wrapper>
                     <TitleLogin>Faça seu cadastro</TitleLogin>
                     <SubtitleLogin>Faça seu login e  make the change._</SubtitleLogin>
-                    <form onSubmit={handleSubmit(onSubmit)}>
+                    <form onSubmit={handleSubmit(onSubmit)} >
                         <Input name='email' control={control} placeholder="E-mail" type='email' errorMessage={errors?.email?.message}/><br/>
                         <Input name='password' control={control} placeholder="Senha" type="password"/><br/>
                         <Button title="Entrar" variant="secondary" onClick = { handleClickSignIn } type="submit" />

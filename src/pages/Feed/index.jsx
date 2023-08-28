@@ -20,12 +20,12 @@ const Feed = ( ) => {
         <Link to="/feed"></Link>
     <Header />
         <Container>
+            <Title>Feed</Title>
             <Column flex={3}>
-                <Title>Feed</Title>
-                <Card/>
-                <Card/>
-                <Card/>
-                <Card/>
+                <Card />
+                <Card />
+                <Card />
+                <Card />
            </Column>
            <Column flex={1}>
                 <TitleHighLight>#RANKING 5 TOP DA SEMANA</TitleHighLight>
