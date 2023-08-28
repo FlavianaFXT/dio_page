@@ -1,70 +1,79 @@
-# Getting Started with Create React App
+#DIO_Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este Projeto é uma reprodução da página da DIO em React.JS e vem sendo desenvolvido nas aulas de React do Bootcamp Orange Tech + do Banco Inter na plataforma da Digital Inovation One - DIO. 
 
-## Available Scripts
+Quem é Flaviana?
+image
 
-In the project directory, you can run:
+Flaviana Ferraz é uma sertaneja de Pernambuco morando no sertão da Paraiba, formada em Gestão Ambiental e Mestre em Recursos Hídricos. Após mais de 10 anos de formada, aos 34 anos, decidiu fazer transição de carreira. Hoje, empreendedora e trilhando os caminhos do Desenvolvimento FrontEnd.
 
-### `npm start`
+Contatos
+E-mail
+LinkedIn
+GitHub
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🧠 DESCRIÇÃO DO PROJETO
+🧠 Contexto
+O objetivo do projeto era reproduzir a página da DIO enquanto aprende-se conceitos e prática do React.JS.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+As funcionalidades implementadas foram: link "Home" no cabeçalho e botão "Começar agora" levando para a tela de Login; Campos de preenchimento no login e verificação; Autenticação com base em dados acessados em API própria.
 
-### `npm test`
+Pendente: Renderização página Feed - necessário resolução de bugs.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#FOTO DO SITE
 
-### `npm run build`
+O site contem 3 páginas:
+Home
+Login
+Feed
+Foi utilizada ainda a estrutura de componentes em pastas para compor partes das páginas e as páginas com maior facilidade, assim como facilitar a manutenção do código.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🧠 Estrutura do projeto
+![image](https://github.com/FlavianaFXT/dio_page/assets/113718720/e79570dd-0216-4994-8422-5c13f12c6204)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://github.com/FlavianaFXT/dio_page/assets/113718720/4ddd3ad7-fb35-42e0-844c-cc7b8c45c108)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://github.com/FlavianaFXT/dio_page/assets/113718720/647a45f9-f857-4c3c-b1fe-4246a3c045aa)
 
-### `npm run eject`
+🧠TECNOLOGIAS UTILIZADAS
+Ferramenta	Descrição
+ReactJS	framework web
+Yarn	gerador de projeto de front-end
+npm	gerenciador de pacotes
+styled-components	biblioteca que nos permite criar componentes de estilo ao escrever códigos CSS dentro de um arquivo JavaScript.
+React router dom	Dependência para criar rotas no reactjs
+React-hook-form  Dependência para trabalhar com formulários no Reactjs
+Yup Construtor de esquema JS para análise e validação de valor, possibilitando uma maneira abstrata que não interfere no restante da lógica
+json server  para criar uma API fake
+Axios  para requisição de API
+axios.create recurso utilizado para criar uma nova instância com uma configuração personalizada. Com ele podemos gerar um clinete para qualquer API e reutilizar a configuração para qualquer chamada usando o mesmo cliente.
+Vercel	Hospedagem para a aplicação, deploy integrado com o github
+Git  Gerenciador de versionamento de Código
+Github	Hospedagem do código fonte integrado com gerenciador de versionamento
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🧠 PASSO A PASSO UTILIZADO
+------
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+🧠 FUNCIONALIDADES IMPLEMENTADAS
+✔️ ----- -------
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+🧠 IMPLEMENTAÇÕES FUTURAS
+------  -------
+ 
+🧠 COMO RODAR O PROJETO
+Para rodar esse projeto em sua máquina, siga os passos a seguir:
 
-## Learn More
+1️⃣ Realize o fork desse repositorio
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+2️⃣ Clone na sua máquina
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+3️⃣ Entre no diretório do repositorio clonado e as dependências do projeto, com o comando:
 
-### Code Splitting
+                                           npm install ou npm i
+4️⃣ Por fim rode o projeto:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+                           npm run start
+O navegador será aberto automaticamente usando a porta localhost:3000
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🧠 CONFIRA O RESULTADO: -----DEPLOY-----
