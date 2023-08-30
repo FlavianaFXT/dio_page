@@ -58,21 +58,6 @@ Foi utilizada ainda a estrutura de componentes em pastas para compor partes das 
 | `Git` | Gerenciador de versionamento de Código|
 | `Github` | Hospedagem do código fonte integrado com gerenciador de versionamento|
 
-🧠TECNOLOGIAS UTILIZADAS
-Ferramenta	Descrição
-ReactJS	framework web
-Yarn	gerador de projeto de front-end
-npm	gerenciador de pacotes
-styled-components	biblioteca que nos permite criar componentes de estilo ao escrever códigos CSS dentro de um arquivo JavaScript.
-React router dom	Dependência para criar rotas no reactjs
-React-hook-form  Dependência para trabalhar com formulários no Reactjs
-Yup Construtor de esquema JS para análise e validação de valor, possibilitando uma maneira abstrata que não interfere no restante da lógica
-json server  para criar uma API fake
-Axios  para requisição de API
-axios.create recurso utilizado para criar uma nova instância com uma configuração personalizada. Com ele podemos gerar um clinete para qualquer API e reutilizar a configuração para qualquer chamada usando o mesmo cliente.
-Vercel	Hospedagem para a aplicação, deploy integrado com o github
-Git  Gerenciador de versionamento de Código
-Github	Hospedagem do código fonte integrado com gerenciador de versionamento
 
 🧠 PASSO A PASSO UTILIZADO
 ------
