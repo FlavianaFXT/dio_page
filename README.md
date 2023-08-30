@@ -15,7 +15,9 @@ Contatos
 - [GitHub](https://github.com/flavianafxt)
 
 🧠 DESCRIÇÃO DO PROJETO
+
 🧠 Contexto
+
 O objetivo do projeto era reproduzir a página da DIO enquanto aprende-se conceitos e prática do React.JS.
 
 As funcionalidades implementadas foram: link "Home" no cabeçalho e botão "Começar agora" levando para a tela de Login; Campos de preenchimento no login e verificação; Autenticação com base em dados acessados em API própria.
@@ -31,6 +33,7 @@ Feed
 Foi utilizada ainda a estrutura de componentes em pastas para compor partes das páginas e as páginas com maior facilidade, assim como facilitar a manutenção do código.
 
 🧠 Estrutura do projeto
+
 
 ![image](https://github.com/FlavianaFXT/dio_page/assets/113718720/e79570dd-0216-4994-8422-5c13f12c6204)
 
