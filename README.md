@@ -54,7 +54,7 @@ Foi utilizada ainda a estrutura de componentes em pastas para compor partes das 
 | `Yup` | Construtor de esquema JS para análise e validação de valor, possibilitando uma maneira abstrata que não interfere no restante da lógica|
 | `json server` | dependência para criar uma API fake|
 | `Axios` | Para requisição de API|
-| `axios.create` | recurso utilizado para criar uma nova instância com uma configuração personalizada. Com ele podemos gerar um clinete para qualquer API e reutilizar a configuração para qualquer chamada usando o mesmo cliente.|
+| `axios.create` | recurso utilizado para criar uma nova instância com uma configuração personalizada. Com ele podemos gerar um cliente para qualquer API e reutilizar a configuração para qualquer chamada usando o mesmo cliente.|
 | `Git` | Gerenciador de versionamento de Código|
 | `Github` | Hospedagem do código fonte integrado com gerenciador de versionamento|
 
