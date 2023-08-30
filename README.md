@@ -41,6 +41,23 @@ Foi utilizada ainda a estrutura de componentes em pastas para compor partes das 
 
 ![image](https://github.com/FlavianaFXT/dio_page/assets/113718720/647a45f9-f857-4c3c-b1fe-4246a3c045aa)
 
+
+## 🧠TECNOLOGIAS UTILIZADAS
+| Ferramenta | Descrição |
+| --- | --- |
+| `ReactJS` | framework web|
+| `Yarn` | gerador de projeto de front-end|
+| `npm` | gerenciador de pacotes|
+| `Styled-components` | biblioteca que nos permite criar componentes de estilo ao escrever códigos CSS dentro de um arquivo JavaScript|
+| `React router dom` | Dependência para criar rotas no reactjs|
+| `React-hook-form` | Dependência para trabalhar com formulários no Reactjs|
+| `Yup` | Construtor de esquema JS para análise e validação de valor, possibilitando uma maneira abstrata que não interfere no restante da lógica|
+| `json server` | dependência para criar uma API fake|
+| `Axios` | Para requisição de API|
+| `axios.create` | recurso utilizado para criar uma nova instância com uma configuração personalizada. Com ele podemos gerar um clinete para qualquer API e reutilizar a configuração para qualquer chamada usando o mesmo cliente.|
+| `Git` | Gerenciador de versionamento de Código|
+| `Github` | Hospedagem do código fonte integrado com gerenciador de versionamento|
+
 🧠TECNOLOGIAS UTILIZADAS
 Ferramenta	Descrição
 ReactJS	framework web
