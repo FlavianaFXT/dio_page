@@ -3,14 +3,16 @@
 Este Projeto é uma reprodução da página da DIO em React.JS e vem sendo desenvolvido nas aulas de React do Bootcamp Orange Tech + do Banco Inter na plataforma da Digital Inovation One - DIO. 
 
 Quem é Flaviana?
-image
+
+![image](https://github.com/FlavianaFXT/ProjetoFinal-reprograma/assets/113718720/1e13d5e7-b1b4-4701-a689-ec293ec77ea1)
 
 Flaviana Ferraz é uma sertaneja de Pernambuco morando no sertão da Paraiba, formada em Gestão Ambiental e Mestre em Recursos Hídricos. Após mais de 10 anos de formada, aos 34 anos, decidiu fazer transição de carreira. Hoje, empreendedora e trilhando os caminhos do Desenvolvimento FrontEnd.
 
 Contatos
-E-mail
-LinkedIn
-GitHub
+
+- [E-mail](flaviferraz@yahoo.com.br)
+- [LinkedIn](https://www.linkedin.com/in/flaviana-ferraz-frontend)
+- [GitHub](https://github.com/flavianafxt)
 
 🧠 DESCRIÇÃO DO PROJETO
 🧠 Contexto
