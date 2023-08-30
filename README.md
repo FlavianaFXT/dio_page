@@ -31,6 +31,7 @@ Feed
 Foi utilizada ainda a estrutura de componentes em pastas para compor partes das páginas e as páginas com maior facilidade, assim como facilitar a manutenção do código.
 
 🧠 Estrutura do projeto
+
 ![image](https://github.com/FlavianaFXT/dio_page/assets/113718720/e79570dd-0216-4994-8422-5c13f12c6204)
 
 ![image](https://github.com/FlavianaFXT/dio_page/assets/113718720/4ddd3ad7-fb35-42e0-844c-cc7b8c45c108)
