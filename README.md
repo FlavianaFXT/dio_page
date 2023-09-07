@@ -6,7 +6,7 @@ Este Projeto é uma reprodução da página da DIO em React.JS e vem sendo desen
 
   - [1. DESCRIÇÃO DO PROJETO]()
      
-   - [2. Estrutura do projeto]()
+   - [2. ESTRUTURA DO PROJETO]()
      
    - [3. TECNOLOGIAS UTILIZADAS]()
      
@@ -33,7 +33,7 @@ Flaviana Ferraz é uma sertaneja de Pernambuco morando no sertão da Paraiba, fo
 - [LinkedIn](https://www.linkedin.com/in/flaviana-ferraz-frontend)
 - [GitHub](https://github.com/flavianafxt)
 
-# 1.DESCRIÇÃO DO PROJETO
+# 1. DESCRIÇÃO DO PROJETO
 
 ## Contexto
 
@@ -55,7 +55,7 @@ Pendente: ⛔ Renderização da página Feed - necessário resolução de bugs. 
 ![image](https://github.com/FlavianaFXT/dio_page/assets/113718720/4c6fbcfb-2ff6-44fa-ba92-506982cff38c)
 
 
-## 2.Estrutura do projeto
+# 2. ESTRUTURA DO PROJETO
 
 
 ![image](https://github.com/FlavianaFXT/dio_page/assets/113718720/e79570dd-0216-4994-8422-5c13f12c6204)
@@ -65,7 +65,7 @@ Pendente: ⛔ Renderização da página Feed - necessário resolução de bugs. 
 ![image](https://github.com/FlavianaFXT/dio_page/assets/113718720/647a45f9-f857-4c3c-b1fe-4246a3c045aa)
 
 
-# 3.TECNOLOGIAS UTILIZADAS
+# 3. TECNOLOGIAS UTILIZADAS
 
 | Ferramenta | Descrição |
 | --- | --- |
@@ -83,7 +83,7 @@ Pendente: ⛔ Renderização da página Feed - necessário resolução de bugs. 
 | `Github` | Hospedagem do código fonte integrado com gerenciador de versionamento|
 
 
-# 4.PASSO A PASSO UTILIZADO
+# 4. PASSO A PASSO UTILIZADO
 
 
 1️⃣ Preparação do ambiente de trabalho
@@ -147,13 +147,13 @@ No arquivo criado para a APi foram inseridos os dados dos usuários do sistema p
 `yarn add axios` ou `npm install axios`
 
 
-# 5.IMPLEMENTAÇÕES FUTURAS
+# 5. IMPLEMENTAÇÕES FUTURAS
 
  ⛔ Renderização da página Feed - necessário resolução de bugs. ⛔
  
  - [ ] Deploy do site
 
-# 6.LINKS IMPORTANTES:
+# 6. LINKS IMPORTANTES
 
  [Node.js](nodejs.org/en/)
  
@@ -170,7 +170,7 @@ No arquivo criado para a APi foram inseridos os dados dos usuários do sistema p
  [Hooks Básicos - Documentação](https://pt-br.reactjs.org/docs/hooks-intro.html)
  
 
-# 7.COMO RODAR O PROJETO
+# 7. COMO RODAR O PROJETO
 
 Para rodar esse projeto em sua máquina, siga os passos a seguir:
 
@@ -188,4 +188,6 @@ Para rodar esse projeto em sua máquina, siga os passos a seguir:
 O navegador será aberto automaticamente usando a porta localhost:3000
 
 
-## 8.CONFIRA O RESULTADO: -----DEPLOY-----
+# 8. CONFIRA O RESULTADO
+
+-----DEPLOY-----
