@@ -4,21 +4,21 @@ Este Projeto é uma reprodução da página da DIO em React.JS e vem sendo desen
 
 ## Índice:
 
-  - [1.DESCRIÇÃO DO PROJETO]()
+  - [1. DESCRIÇÃO DO PROJETO]()
      
-   - [2.Estrutura do projeto]()
+   - [2. Estrutura do projeto]()
      
-   - [3.TECNOLOGIAS UTILIZADAS]()
+   - [3. TECNOLOGIAS UTILIZADAS]()
      
-   - [4.PASSO A PASSO UTILIZADO]()
+   - [4. PASSO A PASSO UTILIZADO]()
      
-   - [5.IMPLEMENTAÇÕES FUTURAS]()
+   - [5. IMPLEMENTAÇÕES FUTURAS]()
      
-   - [6.LINKS IMPORTANTES]()
+   - [6. LINKS IMPORTANTES]()
      
-   - [7.COMO RODAR O PROJETO]()
+   - [7. COMO RODAR O PROJETO]()
      
-   - [8.CONFIRA O RESULTADO]()
+   - [8. CONFIRA O RESULTADO]()
  
 
 ### Quem é Flaviana?
